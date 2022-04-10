@@ -1,0 +1,12 @@
+# this is just personal garbage
+projekt/**/**
+temporary/**
+jupyter_files/**
+vgg16_model.ipynb
+.ipynb_checkpoints/**
+__pycache__/**
+Train.py
+desktop.ini
+test/**
+dataset/**
+DDDRNet/**
