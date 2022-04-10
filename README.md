@@ -1,4 +1,5 @@
 # SegNet Tensorflow 2.5.0
-SegNet implementation in Tensorflow 2.5.0
+SegNet implementation in Tensorflow
 
-# SegNet-Tensorflow
+Tensorflow vesion: 2.8.0
+
